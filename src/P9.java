@@ -1,7 +1,7 @@
 
 public class P9 {
 	public static void main(String[] args) {
-		System.out.println("歡迎使用JAVA");
-		System.out.println("開始使用JAVA");
+		System.out.print("歡迎使用JAVA");
+		System.out.print("開始使用JAVA");
 	}
 }
