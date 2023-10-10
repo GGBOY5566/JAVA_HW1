@@ -3,11 +3,11 @@ public class P38 {
 	public static void main(String[] args) {
 		double dnum = 160.5;
 		
-		System.out.println("¨­°ª¬O:"+ dnum+ "¤½¤À");
-		System.out.println("«ü©wµ¹int«¬ºAªºÅÜ¼Æ");
+		System.out.println("èº«é«˜æ˜¯:"+ dnum+ "å…¬åˆ†");
+		System.out.println("æŒ‡å®šçµ¦intåž‹æ…‹çš„è®Šæ•¸");
 		
 		int num = (int)dnum;
-		System.out.println("¨­°ª¬O:"+ num+ "¤½¤À");
+		System.out.println("èº«é«˜æ˜¯:"+ num+ "å…¬åˆ†");
 
 	}
 

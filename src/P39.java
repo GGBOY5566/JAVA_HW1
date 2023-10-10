@@ -4,8 +4,8 @@ public class P39 {
 		int d = 2;
 		double pi = 3.14;
 		
-		System.out.println("ª½®|¬O:"+ d+ "¤½¤Àªº¶ê");
-		System.out.println("¨ä¶ê©Pªø¬O:"+ (d*pi)+ "¤½¤À");
+		System.out.println("ç›´å¾‘æ˜¯:"+ d+ "å…¬åˆ†çš„åœ“");
+		System.out.println("å…¶åœ“å‘¨é•·æ˜¯:"+ (d*pi)+ "å…¬åˆ†");
 		
 		int num1 = 5, num2 = 4;
 		double div1 = num1/num2, div2 = (double)num1/(double)num2;

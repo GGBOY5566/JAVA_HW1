@@ -1,7 +1,7 @@
 
 public class P10 {
 	public static void main(String [] args) {
-		System.out.println("Åwªï¨Ï¥ÎJAVA");
-		System.out.println("¶}©l¨Ï¥ÎJAVA");
+		System.out.println("æ­¡è¿Žä½¿ç”¨JAVA");
+		System.out.println("é–‹å§‹ä½¿ç”¨JAVA");
 	}
 }

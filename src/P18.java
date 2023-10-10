@@ -1,10 +1,10 @@
 
 public class P18 {
 	public static void main(String [] args) {
-		System.out.println("Åã¥Ü¤Ï±×½u:\\");
-		System.out.println("Åã¥Ü³æ¤Ş¸¹:\'");
-		System.out.println("8¶i¦ì¼Æ¦r101¦r¤¸:\101");
-		System.out.println("16¶i¦ì¼Æ¦r0061¦r¤¸:\u0061");
+		System.out.println("é¡¯ç¤ºåæ–œç·š:\\");
+		System.out.println("é¡¯ç¤ºå–®å¼•è™Ÿ:\'");
+		System.out.println("8é€²ä½æ•¸å­—101å­—å…ƒ:\101");
+		System.out.println("16é€²ä½æ•¸å­—0061å­—å…ƒ:\u0061");
 		
 	}
 }

@@ -7,12 +7,12 @@ public class P31 {
 		int num1 = 2, num2 = 3;
 		int sum = num1 + num2;
 		
-		System.out.println("NUM1ªº­È:"+num1);
-		System.out.println("NUM2ªº­È:"+num2);
-		System.out.println("NUM1 + NUM2ªº­È:"+sum);
+		System.out.println("NUM1çš„å€¼:"+num1);
+		System.out.println("NUM2çš„å€¼:"+num2);
+		System.out.println("NUM1 + NUM2çš„å€¼:"+sum);
 		
 		num1 += 1;
-		System.out.println("NUM1 + 1ªº­È:"+num1); 
+		System.out.println("NUM1 + 1çš„å€¼:"+num1); 
 		
 	}
 }

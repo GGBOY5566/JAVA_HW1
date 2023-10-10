@@ -6,21 +6,21 @@ import java.io.BufferedReader;
 public class P28 {
 	public static void main(String [] args)throws IOException 
 	{
-		System.out.println("½Ð¿é¤J¤@¾ã¼Æ:");
+		System.out.println("è«‹è¼¸å…¥ä¸€æ•´æ•¸:");
 		
 		BufferedReader br1 = new BufferedReader(new InputStreamReader(System.in));
 		String str1 = br1.readLine();
 		
 		int num = Integer.parseInt(str1);
 		
-		System.out.println("§A¿é¤Jªº¼Æ¦r:"+num);
-		System.out.println("½Ð¿é¤J¦r¦ê:");
+		System.out.println("ä½ è¼¸å…¥çš„æ•¸å­—:"+num);
+		System.out.println("è«‹è¼¸å…¥å­—ä¸²:");
 		
 		BufferedReader br2 = 
 			new BufferedReader(new InputStreamReader(System.in));		
 		String str2 = br2.readLine();
 		
-		System.out.println("§A¿é¤Jªº¦r¦ê:"+str2);
+		System.out.println("ä½ è¼¸å…¥çš„å­—ä¸²:"+str2);
 		
 	}
 }

@@ -3,7 +3,7 @@ public class P34 {
 	public static void main(String [] args) {
 		int num1 = 10, num2 = 5;
 		
-		System.out.println("NUM1   NUM2ªº¦UºØ¹Bºâ:");
+		System.out.println("NUM1   NUM2çš„å„ç¨®é‹ç®—:");
 		System.out.println("NUM1 + NUM2 = :"+(num1+num2));
 		System.out.println("NUM1 - NUM2 = :"+(num1-num2));
 		System.out.println("NUM1 * NUM2 = :"+(num1*num2));
@@ -15,7 +15,7 @@ public class P34 {
 		b = a++;
 		c = ++a;
 		
-		System.out.println("¦]¬°¬O¦b«ü©w­È¤§«á¤~»¼¼W¡A©Ò¥HB¬°:"+b);
-		System.out.println("¦]¬°¬O¦b»¼¼W¤§«á¤~«ü©w­È¡A©Ò¥HA¬°:"+c);
+		System.out.println("å› ç‚ºæ˜¯åœ¨æŒ‡å®šå€¼ä¹‹å¾Œæ‰éå¢ï¼Œæ‰€ä»¥Bç‚º:"+b);
+		System.out.println("å› ç‚ºæ˜¯åœ¨éå¢ä¹‹å¾Œæ‰æŒ‡å®šå€¼ï¼Œæ‰€ä»¥Aç‚º:"+c);
 	}
 }

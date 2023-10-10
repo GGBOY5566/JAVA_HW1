@@ -2,9 +2,9 @@
 public class P26 {
 	public static void main(String [] args) {
 		int num1 = 3;
-		System.out.println("NUM1ªº­È¬°:"+num1);
+		System.out.println("NUM1çš„å€¼ç‚º:"+num1);
 		num1 = 5;
-		System.out.println("§ó·sNUM1ªº­È");
-		System.out.println("NUM1ªº­È¬°:"+num1);
+		System.out.println("æ›´æ–°NUM1çš„å€¼");
+		System.out.println("NUM1çš„å€¼ç‚º:"+num1);
 	}
 }

@@ -2,9 +2,9 @@
 public class P27 {
 	public static void main(String [] args) {
 		int num1 = 3, num2;
-		System.out.println("NUM1ªº­È¬°:"+num1);
+		System.out.println("NUM1çš„å€¼ç‚º:"+num1);
 		num2 = num1;
-		System.out.println("«ü©wNUM1ªº­Èµ¹NUM2");
-		System.out.println("NUM2ªº­È¬°:"+num2);
+		System.out.println("æŒ‡å®šNUM1çš„å€¼çµ¦NUM2");
+		System.out.println("NUM2çš„å€¼ç‚º:"+num2);
 	}
 }
